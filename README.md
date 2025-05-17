@@ -21,7 +21,7 @@ Java Chat Application  A real-time chat application built in Java using the clie
 - Java Swing (for GUI)
 - Object Streams (for file transfer)
 
-# The Group Member
+# The Group Members
 ALAA AHMED
 RAGHAD TAREQ
 ROAA JAFAAR
